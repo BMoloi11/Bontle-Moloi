@@ -29,7 +29,7 @@ const siteProps = {
   email: "Bontle.Moloi@studentambassadors.com",
   gitHub: "BMoloi11",
   instagram: "Boncle_M",
-  linkedIn: "Bontle Moloi",
+  linkedIn: "bontle-moloi-9b7802218",
   medium: "",
   twitter: "Boncle_M",
   youTube: "I Am Boncle",

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfoliosection.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "computer science replica image";
 
 /**
  * Project list
@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sisonke Project for African Bank GEW Hackathon 2023",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaborated in creating a blockchain crowdfunding platform that aims to revolutionalise traditional crowdfunding schemes at the African Bank GEW Hackathon 2023",
+    url: "https://github.com/GEW-Hack-2023",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Loana Project for African Bank Web 3.0 Hackathon",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Contributed toward the African Bank Web 3.0 2023 Hackathon Project where a decentrilized loaning system was created with Solidity Framework incooperated amongst other technologies.",
+    url: "https://github.com/Hack23Git/Group-1",
   },
 ];
 
